@@ -6,3 +6,4 @@
 
 ### Brendan's Additional Groceries
 - [ ] Eggs
+- [ ] Like a LOT of eggs
